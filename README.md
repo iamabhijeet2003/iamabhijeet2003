@@ -8,7 +8,7 @@
   </a>
 
   <a href="https://twitter.com/iamabhijeet2003" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamabhijeet2003" height="30" width="40" />
+    <img align="center" src="https://github.com/iamabhijeet2003/iamabhijeet2003/blob/main/X_logo.svg" alt="iamabhijeet2003" height="30" width="40" />
   </a>
 </p>
 
