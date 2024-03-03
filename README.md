@@ -54,6 +54,12 @@
   <a href="https://symfony.com" target="_blank" rel="noreferrer"> 
     <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> 
   </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
+  </a>
 </p>
 
 <br><b>
