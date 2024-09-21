@@ -69,7 +69,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/iamabhijeet2003/iamabhijeet2003/main/assets/thm_badge.png" alt="badge" width="40" height="40>
+<img src="https://raw.githubusercontent.com/iamabhijeet2003/iamabhijeet2003/main/assets/thm_badge.png" alt="badge" width="40" height="40 />
 
 <br/>
 <p>
