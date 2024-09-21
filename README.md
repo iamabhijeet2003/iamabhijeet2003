@@ -67,9 +67,9 @@
   </a>
 </p>
 
-
-<img src="https://github.com/iamabhijeet2003/iamabhijeet2003/blob/main/assets/thm_badge.png?raw=true" alt="badge" width="40" height="40 >
-
+<a href="https://tryhackme.com/p/iamabhijeet">
+  <img src="https://github.com/iamabhijeet2003/iamabhijeet2003/blob/main/assets/thm_badge.png?raw=true" alt="badge" >
+</a>
 <br/>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamabhijeet2003&show_icons=true&locale=en&layout=compact" alt="iamabhijeet2003" />
