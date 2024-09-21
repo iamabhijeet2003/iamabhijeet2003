@@ -6,7 +6,7 @@
   </a>
 
   <a href="https://twitter.com/iamabhijeet2003" target="blank">
-    <img align="center" src="https://github.com/iamabhijeet2003/iamabhijeet2003/blob/main/assets/logo-white.png" alt="iamabhijeet2003" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/iamabhijeet2003/iamabhijeet2003/0ccc0106df49ce8ea64ce79fcaa4510d566a46e2/assets/X_logo.svg" alt="iamabhijeet2003" width="40" />
   </a>
 </p>
 
@@ -67,9 +67,8 @@
   </a>
 </p>
 
----
 
-<img src="https://raw.githubusercontent.com/iamabhijeet2003/iamabhijeet2003/main/assets/thm_badge.png" alt="badge" width="40" height="40 />
+<img src="https://github.com/iamabhijeet2003/iamabhijeet2003/blob/main/assets/thm_badge.png?raw=true" alt="badge" width="40" height="40 >
 
 <br/>
 <p>
