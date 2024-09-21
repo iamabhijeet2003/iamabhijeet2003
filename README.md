@@ -6,7 +6,7 @@
   </a>
 
   <a href="https://twitter.com/iamabhijeet2003" target="blank">
-    <img align="center" src="https://github.com/iamabhijeet2003/iamabhijeet2003/blob/main/logo-white.png" alt="iamabhijeet2003" width="40" />
+    <img align="center" src="https://github.com/iamabhijeet2003/iamabhijeet2003/blob/main/assets/logo-white.png" alt="iamabhijeet2003" width="40" />
   </a>
 </p>
 
@@ -68,7 +68,7 @@
 </p>
 
 ---
-[![iamabhijeet2003's tryhackme stats](https://raw.githubusercontent.com/iamabhijeet2003/iamabhijeet2003/main/assets/thm_propic.png)][tryhackme]
+[![iamabhijeet2003's tryhackme stats](https://raw.githubusercontent.com/iamabhijeet2003/iamabhijeet2003/main/assets/thm_badge.png)][tryhackme]
 ---
 <br/>
 <p>
