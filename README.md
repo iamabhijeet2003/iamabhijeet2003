@@ -68,7 +68,7 @@
 </p>
 
 <a href="https://tryhackme.com/p/iamabhijeet">
-  <img src="https://github.com/iamabhijeet2003/iamabhijeet2003/blob/main/assets/thm_propic.png?raw=true" alt="badge" >
+  <img src="https://github.com/iamabhijeet2003/iamabhijeet2003/blob/main/assets/tryhackme-badge.png?raw=true" alt="badge" >
 </a>
 <br/>
 <p>
