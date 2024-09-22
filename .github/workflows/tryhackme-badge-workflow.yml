@@ -13,6 +13,11 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
+    - name: Set up Git identity
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+
     - name: Fetch TryHackMe Badge
       uses: DhanushNehru/tryhackme-badge-action-workflow@v1.0
       with:
@@ -20,3 +25,4 @@ jobs:
         username: 'iamabhijeet'
         user_id: '3198521'
         GITHUB_TOKEN: ${{ secrets.TOKEN }}
+
