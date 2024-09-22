@@ -17,12 +17,14 @@
 <h3 align="left">Languages and Tools I use:</h3>
 
 
-| **Languages** | **Frameworks/Libraries** | **Databases** | **Tools** |
-|---------------|--------------------------|---------------|-----------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> | <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="bootstrap" width="40" height="40"/>  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/> |
-|  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/768px-Bash_Logo_Colored.svg.png?20180723054350" alt="bash" width="40" height="40"/>  |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> | |<img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-500.png" alt="gitlab" width="40" height="40"/> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhoXisDruJMDAq3Ltd-wuaMW2lGxck9wAKw&s" alt="tailwindcss" width="40" height="40"/> | | |
+| **Languages** | **Frameworks/Libraries** | **Databases** | **Tools** | **DevOps/Cloud** |
+|---------------|--------------------------|---------------|-----------| -----------|
+| <img src="./assets/logos/js.svg" alt="javascript" width="40" height="40"/> | <img src="./assets/logos/bootstrap.svg" alt="bootstrap" width="40" height="40"/>  | <img src="./assets/logos/mysql.svg" alt="mysql" width="40" height="40"/>  | <img src="./assets/logos/git.svg" alt="git" width="40" height="40"/> | <img src="./assets/logos/docker.svg"  width="40" height="40" alt="docker" /> |
+| <img src="./assets/logos/php.svg" alt="php" width="40" height="40"/> | <img src="./assets/logos/vue.svg" alt="vuejs" width="40" height="40"/> | <img src="./assets/logos/mongo.svg" alt="mongodb" width="40" height="40"/> | <img src="./assets/logos/github.svg" alt="github" width="40" height="40"/> | <img src="./assets/logos/aws.svg" alt="aws" width="40" height="40"/> | 
+|  <img src="./assets/logos/bash.svg" alt="bash" width="40" height="40"/>  | <img src="./assets/logos/react.svg" alt="react" width="40" height="40"/> | | <img src="./assets/logos/gitlab.svg" alt="gitlab" width="40" height="40"/> | <img src="./assets/logos/azure.svg" alt="azure" width="40" height="40"/> |
+| <img src="./assets/logos/ts.svg" alt="typescript" width="40" height="40" /> | <img src="./assets/logos/tailwind.svg" alt="tailwindcss" width="40" height="40" /> | | <img src="./assets/logos/postman.svg" alt="postman" width="40" height="40" /> | |
+| <img src="./assets/logos/html.svg" width="40" height="40" alt="html" /> | <img src="./assets/logos/symfony.svg" alt="symfony" width="40" height="40" /> | | <img src="./assets/logos/vercel.svg" alt="vercel" width="40" height="40" /> |
+| <img src="./assets/logos/py.svg" width="40" height="40 " alt="python" /> | <img src="./assets/logos/sass.svg" width="40" height="40 " alt="sass" /> | |
 
 ---
 
