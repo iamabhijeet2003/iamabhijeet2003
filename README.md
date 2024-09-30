@@ -3,6 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&width=435&lines=Web+developer;Open+Source+Contributer;Cybersecurity+Student)](https://git.io/typing-svg)
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/iamabhijeet2003/iamabhijeet2003/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/iamabhijeet2003/iamabhijeet2003/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/iamabhijeet2003/" target="_blank">
