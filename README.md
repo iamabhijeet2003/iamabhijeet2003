@@ -39,6 +39,15 @@
 
 ---
 
+## 🛡️ Cybersecurity Skills
+
+| **Vulnerability Scanning & Pentesting** | **Forensics & Analysis** | **Monitoring & Detection** | **Networking & Hardening** |
+|-----------------------------------------|---------------------------|-----------------------------|-----------------------------|
+| 🔍 Nmap, Nessus, OpenVAS                | 🧩 Autopsy, Belkasoft X   | 📈 Wazuh, Snort             | 🔧 System Hardening         |
+| 💥 Metasploit, Burp Suite, SQLmap               | 🧠 DFIR, Android Forensics| 🛡️ OSINT, Wireshark         | 🌐 Firewall Configuration, WAF   |
+
+---
+
 <a href="https://tryhackme.com/p/iamabhijeet">
   <img src="https://github.com/iamabhijeet2003/iamabhijeet2003/blob/main/assets/tryhackme-badge.png?raw=true" alt="badge" >
 </a>
