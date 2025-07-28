@@ -15,8 +15,23 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      - name: Create assets folder if not exists
+        run: mkdir -p assets
+
       - name: Update TryHackMe Badge
         uses: p4p1/tryhackme-badge-workflow@main
         with:
-          username: "iamabhijeet2003"
+          username: "iamabhijeet"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Move badge to assets folder
+        run: |
+          mv tryhackme-badge.png assets/tryhackme-badge.png
+
+      - name: Commit updated badge
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          git add assets/tryhackme-badge.png
+          git commit -m "Update TryHackMe badge"
+          git push
