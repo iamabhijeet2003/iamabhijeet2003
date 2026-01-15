@@ -2,36 +2,38 @@ name: TryHackMe Update Badge
 
 on:
   schedule:
-    # Runs every 24 hours at midnight UTC
+    # Ejecutar cada 24 horas a medianoche UTC
     - cron: '0 0 * * *'
-  workflow_dispatch: # Allows manual trigger
+  workflow_dispatch: 
 
 jobs:
   tryhackme-badge-update:
-    name: Update this repo's TryHackMe badge with the latest image
+    name: Update TryHackMe badge
     runs-on: ubuntu-latest
+    permissions:
+      contents: write 
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Create assets folder if not exists
         run: mkdir -p assets
 
-      - name: Update TryHackMe Badge
-        uses: p4p1/tryhackme-badge-workflow@main
-        with:
-          username: "iamabhijeet"
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Move badge to assets folder
+      - name: Download TryHackMe Badge
         run: |
-          mv tryhackme-badge.png assets/tryhackme-badge.png
+          curl -o assets/tryhackme-badge.png https://tryhackme-badges.s3.amazonaws.com/iamabhijeet.png
 
-      - name: Commit updated badge
+      - name: Commit and Push
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
           git add assets/tryhackme-badge.png
-          git commit -m "Update TryHackMe badge"
-          git push
+          
+          # Solo hace commit si hay cambios (evita error si la imagen no ha cambiado)
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update TryHackMe badge"
+            git push
+          fi
